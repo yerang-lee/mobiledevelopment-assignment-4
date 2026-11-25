@@ -2,215 +2,215 @@
   {
     "id": 1,
     "title": "5장_관계",
-    "img_src": "https://raw.githubusercontent.com/yerang-lee/MobileDevelopment_assignment_4/main/chapter_1.png",
+    "img_src": "https://raw.githubusercontent.com/yerang-lee/MobileDevelopment-assignment-4/main/chapter_1.png",
     "concepts": [
       {
         "id": 51,
         "title": "이항 관계",
         "detail": "두 집합의 원소 사이의 관계를 순서쌍으로 정의\n\n예제\nA=3에서 a < b인 관계 R은 3이다.",
-        "img_src": "https://raw.githubusercontent.com/yerang-lee/MobileDevelopment_assignment_4/main/concept_5_1.png"
+        "img_src": "https://raw.githubusercontent.com/yerang-lee/MobileDevelopment-assignment-4/main/concept_5_1.png"
       },
       {
         "id": 52,
         "title": "관계의 표현",
         "detail": "순서쌍, 관계 행렬, 방향 그래프 등을 통한 표현\n\n예제\nR=3을 방향 그래프로 표현하면 1→2, 2→3이다.",
-        "img_src": "https://raw.githubusercontent.com/yerang-lee/MobileDevelopment_assignment_4/main/concept_5_2.png"
+        "img_src": "https://raw.githubusercontent.com/yerang-lee/MobileDevelopment-assignment-4/main/concept_5_2.png"
       },
       {
         "id": 53,
         "title": "합성 관계",
         "detail": "두 관계를 연결하여 새로운 관계를 구성\n\n예제\nR=2, S=3일 때 합성 관계는 3이다.",
-        "img_src": "https://raw.githubusercontent.com/yerang-lee/MobileDevelopment_assignment_4/main/concept_5_3.png"
+        "img_src": "https://raw.githubusercontent.com/yerang-lee/MobileDevelopment-assignment-4/main/concept_5_3.png"
       },
       {
         "id": 54,
         "title": "관계의 성질",
         "detail": "반사성, 대칭성, 반대칭성, 추이성\n\n예제\nA=2에서 R=2는 반사성·대칭성·반대칭성·추이성을 모두 만족한다.",
-        "img_src": "https://raw.githubusercontent.com/yerang-lee/MobileDevelopment_assignment_4/main/concept_5_4.png"
+        "img_src": "https://raw.githubusercontent.com/yerang-lee/MobileDevelopment-assignment-4/main/concept_5_4.png"
       },
       {
         "id": 55,
         "title": "동치 관계",
         "detail": "반사성·대칭성·추이성을 모두 만족하는 관계\n\n예제\n정수에서 두 수를 2로 나눈 나머지가 같다는 관계는 동치 관계이다.",
-        "img_src": "https://raw.githubusercontent.com/yerang-lee/MobileDevelopment_assignment_4/main/concept_5_5.png"
+        "img_src": "https://raw.githubusercontent.com/yerang-lee/MobileDevelopment-assignment-4/main/concept_5_5.png"
       },
       {
         "id": 56,
         "title": "동치류와 분할",
         "detail": "동치 관계를 이용해 집합을 서로 겹치지 않는 부분집합으로 구분\n\n예제\n집합 A의 원소 1, 2, 3, 4를 홀짝에 따라 분할하면 홀수 동치류는 1과 3, 짝수 동치류는 2와 4이다.",
-        "img_src": "https://raw.githubusercontent.com/yerang-lee/MobileDevelopment_assignment_4/main/concept_5_6.png"
+        "img_src": "https://raw.githubusercontent.com/yerang-lee/MobileDevelopment-assignment-4/main/concept_5_6.png"
       },
       {
         "id": 57,
         "title": "부분 순서 관계",
         "detail": "반사성·반대칭성·추이성을 만족하는 관계\n\n예제\n집합 A의 원소가 1, 2, 4일 때, '앞의 수가 뒤의 수를 나눈다'는 관계는 부분 순서 관계이다.",
-        "img_src": "https://raw.githubusercontent.com/yerang-lee/MobileDevelopment_assignment_4/main/concept_5_7.png"
+        "img_src": "https://raw.githubusercontent.com/yerang-lee/MobileDevelopment-assignment-4/main/concept_5_7.png"
       },
       {
         "id": 58,
         "title": "하세 도표",
         "detail": "부분 순서 관계를 간결하게 나타내는 도표\n\n예제\n1, 2, 4의 약수 관계를 하세 도표로 나타내면 1이 맨 아래, 2가 중간, 4가 맨 위에 위치한다.",
-        "img_src": "https://raw.githubusercontent.com/yerang-lee/MobileDevelopment_assignment_4/main/concept_5_8.png"
+        "img_src": "https://raw.githubusercontent.com/yerang-lee/MobileDevelopment-assignment-4/main/concept_5_8.png"
       }
     ]
   },
   {
     "id": 2,
     "title": "6장_함수",
-    "img_src": "https://raw.githubusercontent.com/yerang-lee/MobileDevelopment_assignment_4/main/chapter_2.png",
+    "img_src": "https://raw.githubusercontent.com/yerang-lee/MobileDevelopment-assignment-4/main/chapter_2.png",
     "concepts": [
       {
         "id": 61,
         "title": "정의역·공변역·치역",
         "detail": "함수의 입력 집합, 출력 대상 집합, 실제 함수값들의 집합\n\n예제\n정의역이 1, 2, 3이고 공변역이 2, 4, 6, 8인 함수 f(x)=2x의 치역은 2, 4, 6이다.",
-        "img_src": "https://raw.githubusercontent.com/yerang-lee/MobileDevelopment_assignment_4/main/concept_6_1.png"
+        "img_src": "https://raw.githubusercontent.com/yerang-lee/MobileDevelopment-assignment-4/main/concept_6_1.png"
       },
       {
         "id": 62,
         "title": "함수 그래프",
         "detail": "함수의 대응 관계를 순서쌍이나 그래프로 표현\n\n예제\nf(x)=x+1에서 정의역이 1, 2, 3이면 함수 그래프는 점 (1,2), (2,3), (3,4)로 표현된다.",
-        "img_src": "https://raw.githubusercontent.com/yerang-lee/MobileDevelopment_assignment_4/main/concept_6_2.png"
+        "img_src": "https://raw.githubusercontent.com/yerang-lee/MobileDevelopment-assignment-4/main/concept_6_2.png"
       },
       {
         "id": 63,
         "title": "단사 함수",
         "detail": "서로 다른 입력이 서로 다른 출력에 대응\n\n예제\n실수 전체에서 f(x)=2x는 서로 다른 입력값이 항상 서로 다른 출력값을 가지므로 단사 함수이다.",
-        "img_src": "https://raw.githubusercontent.com/yerang-lee/MobileDevelopment_assignment_4/main/concept_6_3.png"
+        "img_src": "https://raw.githubusercontent.com/yerang-lee/MobileDevelopment-assignment-4/main/concept_6_3.png"
       },
       {
         "id": 64,
         "title": "전사 함수",
         "detail": "공변역의 모든 원소가 적어도 하나의 입력에 대응\n\n예제\n실수 전체에서 0 이상의 실수 전체로 대응하는 f(x)=x²은 공변역의 모든 원소가 함수값으로 나타나므로 전사 함수이다.",
-        "img_src": "https://raw.githubusercontent.com/yerang-lee/MobileDevelopment_assignment_4/main/concept_6_4.png"
+        "img_src": "https://raw.githubusercontent.com/yerang-lee/MobileDevelopment-assignment-4/main/concept_6_4.png"
       },
       {
         "id": 65,
         "title": "전단사 함수",
         "detail": "단사성과 전사성을 동시에 만족\n\n예제\n실수 전체에서 f(x)=x+3은 단사 함수이면서 전사 함수이므로 전단사 함수이다.",
-        "img_src": "https://raw.githubusercontent.com/yerang-lee/MobileDevelopment_assignment_4/main/concept_6_5.png"
+        "img_src": "https://raw.githubusercontent.com/yerang-lee/MobileDevelopment-assignment-4/main/concept_6_5.png"
       },
       {
         "id": 66,
         "title": "합성 함수",
         "detail": "두 함수를 순서대로 적용하여 새로운 함수를 구성\n\n예제\nf(x)=x+2, g(x)=3x일 때, f를 적용한 후 g를 적용하면 결과는 3x+6이다.",
-        "img_src": "https://raw.githubusercontent.com/yerang-lee/MobileDevelopment_assignment_4/main/concept_6_6.png"
+        "img_src": "https://raw.githubusercontent.com/yerang-lee/MobileDevelopment-assignment-4/main/concept_6_6.png"
       }
     ]
   },
   {
     "id": 3,
     "title": "7장_그래프",
-    "img_src": "https://raw.githubusercontent.com/yerang-lee/MobileDevelopment_assignment_4/main/chapter_3.png",
+    "img_src": "https://raw.githubusercontent.com/yerang-lee/MobileDevelopment-assignment-4/main/chapter_3.png",
     "concepts": [
       {
         "id": 71,
         "title": "경로와 사이클",
         "detail": "정점 사이의 이동 경로와 시작점으로 돌아오는 경로\n\n예제\nA → B → C는 경로이고, A → B → C → A는 시작점으로 돌아오므로 사이클이다.",
-        "img_src": "https://raw.githubusercontent.com/yerang-lee/MobileDevelopment_assignment_4/main/concept_7_1.png"
+        "img_src": "https://raw.githubusercontent.com/yerang-lee/MobileDevelopment-assignment-4/main/concept_7_1.png"
       },
       {
         "id": 72,
         "title": "그래프의 표현",
         "detail": "인접 행렬과 인접 리스트를 이용한 표현\n\n예제\nA와 B, B와 C가 연결된 무방향 그래프의 인접 행렬은 첫째 행 0,1,0 / 둘째 행 1,0,1 / 셋째 행 0,1,0이다.",
-        "img_src": "https://raw.githubusercontent.com/yerang-lee/MobileDevelopment_assignment_4/main/concept_7_2.png"
+        "img_src": "https://raw.githubusercontent.com/yerang-lee/MobileDevelopment-assignment-4/main/concept_7_2.png"
       },
       {
         "id": 73,
         "title": "특수 형태의 그래프",
         "detail": "완전 그래프, 오일러 경로 등의 개념\n\n예제\n정점 A, B, C가 서로 모두 연결되어 있으면 완전 그래프이며, A-B-C-A는 모든 연결선을 한 번씩 지나는 오일러 회로이다.",
-        "img_src": "https://raw.githubusercontent.com/yerang-lee/MobileDevelopment_assignment_4/main/concept_7_3.png"
+        "img_src": "https://raw.githubusercontent.com/yerang-lee/MobileDevelopment-assignment-4/main/concept_7_3.png"
       },
       {
         "id": 74,
         "title": "최단 경로 문제",
         "detail": "두 정점 사이의 가장 짧은 경로 탐색\n\n예제\nA에서 B까지 비용 2, B에서 C까지 비용 3, A에서 C까지 비용 10이면 A에서 C까지의 최단 경로는 A → B → C이고 총비용은 5이다.",
-        "img_src": "https://raw.githubusercontent.com/yerang-lee/MobileDevelopment_assignment_4/main/concept_7_4.png"
+        "img_src": "https://raw.githubusercontent.com/yerang-lee/MobileDevelopment-assignment-4/main/concept_7_4.png"
       },
       {
         "id": 75,
         "title": "깊이 우선 탐색(DFS)",
         "detail": "한 방향으로 깊게 탐색한 후 되돌아오는 방법\n\n예제\nA-B, A-C, B-D가 연결된 그래프에서 A부터 시작하여 B를 먼저 방문하면 탐색 순서는 A → B → D → C이다.",
-        "img_src": "https://raw.githubusercontent.com/yerang-lee/MobileDevelopment_assignment_4/main/concept_7_5.png"
+        "img_src": "https://raw.githubusercontent.com/yerang-lee/MobileDevelopment-assignment-4/main/concept_7_5.png"
       },
       {
         "id": 76,
         "title": "너비 우선 탐색(BFS)",
         "detail": "시작 정점과 가까운 정점부터 차례로 탐색\n\n예제\n동일한 그래프에서 A부터 시작하여 B를 먼저 방문하면 탐색 순서는 A → B → C → D이다.",
-        "img_src": "https://raw.githubusercontent.com/yerang-lee/MobileDevelopment_assignment_4/main/concept_7_6.png"
+        "img_src": "https://raw.githubusercontent.com/yerang-lee/MobileDevelopment-assignment-4/main/concept_7_6.png"
       },
       {
         "id": 77,
         "title": "그래프 색칠 문제",
         "detail": "인접한 정점에 서로 다른 색을 배정하는 문제\n\n예제\n세 정점이 서로 모두 연결된 삼각형 그래프에서 인접한 정점을 다른 색으로 칠하려면 최소 3가지 색이 필요하다.",
-        "img_src": "https://raw.githubusercontent.com/yerang-lee/MobileDevelopment_assignment_4/main/concept_7_7.png"
+        "img_src": "https://raw.githubusercontent.com/yerang-lee/MobileDevelopment-assignment-4/main/concept_7_7.png"
       }
     ]
   },
   {
     "id": 4,
     "title": "8장_트리",
-    "img_src": "https://raw.githubusercontent.com/yerang-lee/MobileDevelopment_assignment_4/main/chapter_4.png",
+    "img_src": "https://raw.githubusercontent.com/yerang-lee/MobileDevelopment-assignment-4/main/chapter_4.png",
     "concepts": [
       {
         "id": 81,
         "title": "트리의 기본 개념과 용어",
         "detail": "루트, 부모, 자식, 형제, 잎 노드, 차수, 레벨\n\n예제\nA가 루트이고 B와 C가 A의 자식 노드라면 A의 차수는 2이고 B와 C는 형제 노드이다.",
-        "img_src": "https://raw.githubusercontent.com/yerang-lee/MobileDevelopment_assignment_4/main/concept_8_1.png"
+        "img_src": "https://raw.githubusercontent.com/yerang-lee/MobileDevelopment-assignment-4/main/concept_8_1.png"
       },
       {
         "id": 82,
         "title": "방향 트리",
         "detail": "루트에서 다른 노드로 향하는 방향과 순서를 가진 트리\n\n예제\nA → B, A → C, B → D로 구성된 방향 트리에서 A는 루트이고 D의 부모 노드는 B이다.",
-        "img_src": "https://raw.githubusercontent.com/yerang-lee/MobileDevelopment_assignment_4/main/concept_8_2.png"
+        "img_src": "https://raw.githubusercontent.com/yerang-lee/MobileDevelopment-assignment-4/main/concept_8_2.png"
       },
       {
         "id": 83,
         "title": "이진 트리",
         "detail": "각 노드가 최대 두 개의 자식 노드를 가지는 트리\n\n예제\nA의 왼쪽 자식이 B, 오른쪽 자식이 C인 트리는 각 노드의 자식이 최대 2개이므로 이진 트리이다.",
-        "img_src": "https://raw.githubusercontent.com/yerang-lee/MobileDevelopment_assignment_4/main/concept_8_3.png"
+        "img_src": "https://raw.githubusercontent.com/yerang-lee/MobileDevelopment-assignment-4/main/concept_8_3.png"
       },
       {
         "id": 84,
         "title": "이진 트리의 표현",
         "detail": "배열과 연결 리스트를 이용한 표현\n\n예제\n루트 A와 왼쪽 자식 B, 오른쪽 자식 C를 배열로 표현할 때 인덱스 1에 A, 2에 B, 3에 C를 저장할 수 있다.",
-        "img_src": "https://raw.githubusercontent.com/yerang-lee/MobileDevelopment_assignment_4/main/concept_8_3.png"
+        "img_src": "https://raw.githubusercontent.com/yerang-lee/MobileDevelopment-assignment-4/main/concept_8_3.png"
       },
       {
         "id": 85,
         "title": "이진 트리의 탐방",
         "detail": "전순위, 중순위, 후순위 탐방\n\n예제\n루트 A, 왼쪽 자식 B, 오른쪽 자식 C인 트리의 전순위 탐방은 ABC, 중순위 탐방은 BAC, 후순위 탐방은 BCA이다.",
-        "img_src": "https://raw.githubusercontent.com/yerang-lee/MobileDevelopment_assignment_4/main/concept_8_5.png"
+        "img_src": "https://raw.githubusercontent.com/yerang-lee/MobileDevelopment-assignment-4/main/concept_8_5.png"
       }
     ]
   },
   {
     "id": 5,
     "title": "9장_순열, 이산적 확률, 재귀적 관계",
-    "img_src": "https://raw.githubusercontent.com/yerang-lee/MobileDevelopment_assignment_4/main/chapter_5.png",
+    "img_src": "https://raw.githubusercontent.com/yerang-lee/MobileDevelopment-assignment-4/main/chapter_5.png",
     "concepts": [
       {
         "id": 91,
         "title": "경우의 수",
         "detail": "합의 법칙과 곱의 법칙을 이용한 경우의 수 계산\n\n예제\n상의 3벌과 하의 2벌 중 각각 하나씩 선택하여 옷을 입는 경우의 수는 3×2=6가지이다.",
-        "img_src": "https://raw.githubusercontent.com/yerang-lee/MobileDevelopment_assignment_4/main/concept_9_1.png"
+        "img_src": "https://raw.githubusercontent.com/yerang-lee/MobileDevelopment-assignment-4/main/concept_9_1.png"
       },
       {
         "id": 92,
         "title": "순열",
         "detail": "순서를 고려하여 원소를 나열하는 방법\n\n예제\n서로 다른 숫자 1, 2, 3을 일렬로 배열하는 경우의 수는 3!=6가지이다.",
-        "img_src": "https://raw.githubusercontent.com/yerang-lee/MobileDevelopment_assignment_4/main/concept_9_2.png"
+        "img_src": "https://raw.githubusercontent.com/yerang-lee/MobileDevelopment-assignment-4/main/concept_9_2.png"
       },
       {
         "id": 93,
         "title": "조합",
         "detail": "순서를 고려하지 않고 원소를 선택하는 방법, 파스칼의 정리\n\n예제\n학생 5명 중 순서를 고려하지 않고 대표 2명을 선택하는 경우의 수는 5C2=10가지이다.",
-        "img_src": "https://raw.githubusercontent.com/yerang-lee/MobileDevelopment_assignment_4/main/concept_9_3.png"
+        "img_src": "https://raw.githubusercontent.com/yerang-lee/MobileDevelopment-assignment-4/main/concept_9_3.png"
       },
       {
         "id": 94,
         "title": "이산적 확률과 통계",
         "detail": "확률의 계산과 평균 등의 통계 개념\n\n예제\n공정한 주사위에서 짝수가 나올 확률은 1/2이고 주사위 눈의 기댓값은 3.5이다.",
-        "img_src": "https://raw.githubusercontent.com/yerang-lee/MobileDevelopment_assignment_4/main/concept_9_4.png"
+        "img_src": "https://raw.githubusercontent.com/yerang-lee/MobileDevelopment-assignment-4/main/concept_9_4.png"
       }
     ]
   }
